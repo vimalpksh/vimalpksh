@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vimal Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/tech4design" target="blank"><img src="https://img.shields.io/twitter/follow/tech4design?logo=twitter&style=for-the-badge" alt="tech4design" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vimalpksh" target="blank"><img src="https://img.shields.io/twitter/follow/vimalpksh?logo=twitter&style=for-the-badge" alt="vimalpksh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tech4design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tech4design" height="30" width="40" /></a>
+<a href="https://twitter.com/vimalpksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vimalpksh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vimalpksh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vimalpksh/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vimalhere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vimalhere/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/vimal-prakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/vimal-prakash" height="30" width="40" /></a>
